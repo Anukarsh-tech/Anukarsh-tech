@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Anukarsh-tech
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Anukarsh
+- 👀 I’m interested in Data Science Internships
+- 🌱 I’m currently learning Machine learning
+- 💞️ I’m looking to collaborate on Machine learning projects
+- 📫 How to reach me- anukarshpratap2000@gmail.com
 
 <!---
 Anukarsh-tech/Anukarsh-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
